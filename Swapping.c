@@ -15,7 +15,7 @@ int main()
 
   swap(&a,&b);
 
-  printf("After swapping\n X:%d\n Y:%d",a,b);
+  printf("After swapping\nX:%d\nY:%d",a,b);
 
   return 0;
 }
